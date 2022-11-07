@@ -10,4 +10,5 @@ pinned: false
 license: mit
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+This is a demo for the Pete Norvig spell checker algorithm using python
+You can find the demo at https://huggingface.co/spaces/Kira-Floris/spellchecker-demo
